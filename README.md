@@ -2,7 +2,7 @@
 This assignment focuses on manual testing to evaluate a website’s design and functionality.
 
 # Task
-Manually test the homepage of the website Lethal Demo to ensure it matches the provided JPEG design.
+Manually test the homepage of the website Lethal Demo(https://lethaldemo.com/digct/) to ensure it matches the provided JPEG(https://themenio.com/assignment.html) design.
 
 # Testing Focus:
 Verify pixel-perfect alignment, spacing, and colors.
